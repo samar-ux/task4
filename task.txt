@@ -1,0 +1,133 @@
+<html>
+<head>
+      <title>task1</title>
+      
+</head>
+<style>
+body {
+background-image: url("imgess/de.jpg");
+background-size: cover; 
+background-attachment: fixed; 
+
+}
+.otp { font-size: 40px;
+color: 3a86ff;
+    text-decoration-line: underline;
+   text-decoration-color: 3a86ff;
+   text-decoration-style: double;
+    text-align: center;
+}
+.box {width: 18%;
+      height: 270px;
+background-image: url("imgess/bg.jpg"); 
+border: 2px solid black ;
+  border-radius: 50px;
+  padding: 20px;
+  margin-right: 90px;
+ float: right;
+margin-top: 60px;
+  text-align: center;
+display: inline-block;
+ 
+}
+.boxx {width: 18%;
+      height: 270px;
+background-image: url("imgess/gt.jpg");
+border: 2px solid black ;
+  border-radius: 50px;
+  padding: 20px;
+  margin-right: 90px;
+ float: right;
+margin-top: 10px;
+  text-align: center;
+display: inline-block;
+ 
+}
+.boxe {width: 18%;
+      height: 270px;
+background-image: url("imgess/z.jpg");
+background-size: cover; 
+border: 2px solid black ;
+  border-radius: 50px;
+  padding: 20px;
+  margin-right: 90px;
+ float: right;
+margin-top: 60px;
+  text-align: center;
+display: inline-block;
+ 
+}
+.Pricing-circles { width: 70px;
+  height: 70px;
+  border-radius: 50%;
+border: 2px solid black ;
+ background-color: grey;
+padding: 10px;
+margin: 20px auto;
+font-size: 15px;
+}
+.top {height: 30px;
+width: 110px;
+margin: 10px auto;
+ border-radius: 50%;
+background-color: grey;
+border: 2px solid black ;
+}
+.bot {color: blue;
+}
+.rat {color: 3a86ff;
+}
+</style>
+
+<body>
+
+<h1 class="otp">Pricing Table</h1>
+<div class="box">
+                           <div class="ug-overlay">
+                               <h2 class="rat">BASIC PLAN</h2>
+                                        <div class="Pricing-circles">
+                                                    <br>
+                                                          $9
+                                                              <br>
+                                                         /MONTH
+                                                   </div>
+                                        <span class="bot">1gb disk space</span>
+                                             <span class="bot">100 email account</span>
+                                                 <span class="bot">24/24 support</span>
+                                          <button class="top">purchase now</button>
+                                    </div>
+                           </div>
+<div class="boxx">
+                           <div class="ug-overlay">
+                               <h2 class="rat">BASIC PLAN</h2>
+                                        <div class="Pricing-circles">
+                                                    <br>
+                                                          $9
+                                                              <br>
+                                                         /MONTH
+                                                   </div>
+                                        <span class="bot">1gb disk space</span>
+                                             <span class="bot">100 email account</span>
+                                                 <span class="bot">24/24 support</span>
+                                          <button class="top">purchase now</button>
+                                    </div>
+                           </div>
+
+<div class="boxe">
+
+                           <div class="ug-overlay">
+                               <h2 class="rat">BASIC PLAN</h2>
+                                        <div class="Pricing-circles">
+                                                    <br>
+                                                          $9
+                                                              <br>
+                                                         /MONTH
+                                                   </div>
+                                        <span class="bot">1gb disk space</span>
+                                             <span class="bot">100 email account</span>
+                                                 <span class="bot">24/24 support</span>
+                                          <button class="top">purchase now</button>
+                                    </div>
+                           </div>
+</body>
+</html>
